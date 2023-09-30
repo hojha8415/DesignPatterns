@@ -1,0 +1,7 @@
+ATM is a proxy for bankAccount -> Example
+Advantages-
+1. security
+2. avoids duplications -> avoids memory use -> better performance;
+
+Disadvantage-
+another layer of abstraction

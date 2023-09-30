@@ -1,0 +1,13 @@
+Builder pattern advantages -
+1. clear separation between construction and representation.
+2. better control over construction process.
+3. better control over representation process.
+
+Steps -
+1. Packing interface - price and pack methods,
+2. Abstract CD class implementing Packing - abstract pack method,
+3. Abstract Company class extends CD - abstract price method,
+4. Sony and Samsung class extending Company - price & pack implementations,
+5. CDType class - additem, showitem, getcost methods,
+6. CDbuilder class - buildSony, buildSamsung methods,
+7. Builder demo/ main class / client class

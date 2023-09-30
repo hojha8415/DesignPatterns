@@ -1,0 +1,5 @@
+1. When too many objects are to be created
+2. When object creation is heavy on the memory;
+3. Object has intrinsic and extrinsic properties - intrinsic : unique props of the object; extrinsic : client defined properties
+4. we divide classes on the basis of intrinsic and extrinsic properties -> reduces the number of objects to be created ->lesser memory usage
+

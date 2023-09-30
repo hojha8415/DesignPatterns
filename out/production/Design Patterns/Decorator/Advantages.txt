@@ -1,0 +1,5 @@
+1. It helps avoid Class explosion;
+2. Can add as many decorator layers as required;
+3. add functionality and behavior to an object without affecting the behavior of other existing objects within the same class.
+4. structural pattern, which provides a wrapper to the existing class
+5. aids SRP principle
